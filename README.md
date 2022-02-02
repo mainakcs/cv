@@ -1,2 +1,2 @@
 # cv
-This website was my first ever project
+This website is my first ever project
